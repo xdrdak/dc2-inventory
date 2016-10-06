@@ -1,0 +1,2345 @@
+[{
+  "title": "Air Cleaner",
+  "chapter": "4",
+  "usedIn": ["Barrel Cannon IV", "Cleaner Pack", "Stinger Wrench"],
+  "foundAt": "Found at: Luna Labs, outer Labs, in corner",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Alexandra's Bed",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, Alexandria's Room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Auto Book Reader",
+  "chapter": "1",
+  "usedIn": ["Drill Arm"],
+  "foundAt": "Found at: Cedric's Shop, top floor, holding book with idea",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Banana",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Veniccio, inside Iron House (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bar Sign",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, outside Bar",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Barrel",
+  "chapter": "1",
+  "usedIn": ["Barrel Cannon", "Barrel Cannon II", "Barrel Cannon III", "Barrel Cannon IV", "Energy Pack"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Basket Steamer",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Balance Valley, on Chinese Stand",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bed",
+  "chapter": "1",
+  "usedIn": ["Antidote Amulet"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Belt",
+  "chapter": "1",
+  "usedIn": ["Buggy", "Cleaner Pack", "Energy Pack", "Energy Pack"],
+  "foundAt": "Found at: Palm Brinks, worn by Sheriff Blinkhorn",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bench",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, next to lake",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Binoculars",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Cedric's Shop, top floor, on stand on counter",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Blackstone One (missable)",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Train Station, any exterior shotMissable: Only before you get Ixion",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Blue Lantern",
+  "chapter": "7",
+  "usedIn": ["Laser Arm IV"],
+  "foundAt": "Found at: Moon Flower Palace, Flower Garden",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Boat",
+  "chapter": "1",
+  "usedIn": ["Swan"],
+  "foundAt": "Found at: Palm Brinks, on lake, by pier",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bone",
+  "chapter": "1",
+  "usedIn": ["Bone Rapier", "Gift Capsule", "Panther Boots"],
+  "foundAt": "Found at: Dell Clinic, the skeleton",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Book",
+  "chapter": "1",
+  "usedIn": ["Steal Gun"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bottle",
+  "chapter": "1",
+  "usedIn": ["Antidote Drink", "Holy Water", "Stamina Drink", "Tasty Water"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bread",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Polly's Bakery",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bridge",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, the stone bridges in front of Max's House",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cafe Sign",
+  "chapter": "1",
+  "usedIn": ["Cheese"],
+  "foundAt": "Found at: Palm Brinks, in front of Cafe",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Camellia Tree",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Can",
+  "chapter": "1",
+  "usedIn": ["Bucket Leg", "Cleaner Pack"],
+  "foundAt": "Found at: Polly's Bakery, on shelf",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Candle",
+  "chapter": "1",
+  "usedIn": ["Bomb", "Final Bomb", "Improved Bomb", "Jet Hover", "Lightspeed"],
+  "foundAt": "Found at: Palm Brinks Church",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Car",
+  "chapter": "1",
+  "usedIn": ["Buggy", "Caterpillar"],
+  "foundAt": "Found at: Palm Brinks Bar, it's what the bartender is standing in",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cart",
+  "chapter": "1",
+  "usedIn": ["Caterpillar", "Propeller Leg"],
+  "foundAt": "Found at: Palm Brinks, two large wheels with cargo area between them and twolong handles",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cedric's Shop Sign",
+  "chapter": "1",
+  "usedIn": ["Samurai Body"],
+  "foundAt": "Found at: Palm Brinks, in front of Cedric's Shop",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Chair",
+  "chapter": "1",
+  "usedIn": ["Drum Can Body", "Leather Shoes"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Chandelier",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Chimney",
+  "chapter": "1",
+  "usedIn": ["Grenade Launcher", "Hammer Arm III", "Milk Can Body", "Star Breaker"],
+  "foundAt": "Found at: Palm Brinks, outside Parn's Studio",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Chinese Lantern",
+  "chapter": "3",
+  "usedIn": ["Stamina Drink"],
+  "foundAt": "Found at: Balance Valley, on Chinese Stand",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cinders (missable)",
+  "chapter": "5",
+  "usedIn": ["Final Bomb"],
+  "foundAt": "Found at: Heim Rada, build a straw hut and let it burned while embers fallMissable: Only before you destroy the Fire Squall",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Clock",
+  "chapter": "1",
+  "usedIn": ["Anti-Petrify Amulet", "Bandit Brassard", "Non-Stop Amulet"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cloth",
+  "chapter": "1",
+  "usedIn": ["Bone Rapier", "Clown Shoes", "Dragon Shoes", "Leather Shoes", "Wing Shoes", "Work Shoes"],
+  "foundAt": "Found at: Parn's Studio, on the floor",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Coal (missable)",
+  "chapter": "2",
+  "usedIn": ["Improved Bomb"],
+  "foundAt": "Found at: Blackstone One, locomotiveMissable: Only before you get Ixion",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Computer",
+  "chapter": "5",
+  "usedIn": ["Digi Hammer"],
+  "foundAt": "Found at: Gundorada Workshop, in the Operations Room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Constructor",
+  "chapter": "1",
+  "usedIn": ["Cannon Ball Arm II", "Cannon Ball Arm III", "Cannon Ball Arm IV", "Digi Hammer", "Iron Leg", "Smash Wrench", "Work Shoes"],
+  "foundAt": "Found at: Cedric's Shop, bottom floor, where Steve was built",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Crescent-Shaped Light",
+  "chapter": "3",
+  "usedIn": ["Laser Arm II", "Samurai Arm", "Samurai Body"],
+  "foundAt": "Found at: Starlight Temple, Star Items, near roof",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Cup",
+  "chapter": "1",
+  "usedIn": ["Clown Body"],
+  "foundAt": "Found at: Palm Brinks Train Station, at bar",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Curtain",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, Max's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Dead Tree (missable)",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Griffon's Palace, the dead-looking treesMissable: ???",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Decorative Lights",
+  "chapter": "5",
+  "usedIn": ["Digi Hammer"],
+  "foundAt": "Found at: Gundorada Workshop, in G-PARTS store on second level on thewalls (looks like a string of Christmas lights)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Deer Horn",
+  "chapter": "1",
+  "usedIn": ["Drill Arm IV", "Missile Pod Arm III", "Multi Feet", "Poison Wrench", "Samurai Arm III"],
+  "foundAt": "Found at: Need's Office, on left wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Dell Clinic Sign",
+  "chapter": "1",
+  "usedIn": ["Antidote Amulet", "Antidote Drink"],
+  "foundAt": "Found at: Palm Brinks, in front of Dell's Clinic",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Display Robo",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Found at: Gundorada Workshop, G-PARTS store on second level, on left",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Drawbridge",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, it's the big bridge over the river",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Drawer",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, Max's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Dresser",
+  "chapter": "1",
+  "usedIn": ["Cubic Hammer"],
+  "foundAt": "Found at: Max's House, Max's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Drum Can",
+  "chapter": "5",
+  "usedIn": ["Drum Can Body", "Heavy Hammer", "Machine Gun Arm IV", "Metal Boots"],
+  "foundAt": "Found at: Gundorada Workshop, in G-PARTS store on the second level, on theleft",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Earth Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Kazarov Stonehenge, pillar on the side of the main altararea with a yellow lightNOTE: This is NOT the same as the Earth Gem Altar!  See the Scoopssection for the location of the Earth Gem Altar.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Egg",
+  "chapter": "1",
+  "usedIn": ["Clown Foot", "Grenade Launcher", "Improved Bomb"],
+  "foundAt": "Found at: Dell Clinic, on high shelf on right wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Egg Chair",
+  "chapter": "4",
+  "usedIn": ["Cannon Ball Arm IV"],
+  "foundAt": "Found at: Luna Labs, outer Labs",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Egg-Shaped Transmitter",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Veniccio, in Iron House (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Electric Bulletin",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Fishing Contest, in tent, looks like TV",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Electric Sesame",
+  "chapter": "5",
+  "usedIn": ["Drill Arm II", "Sun &amp; Moon Armor"],
+  "foundAt": "Found at: Gundorada Workshop, in G-PARTS store on the second level, devicethat looks like a top to your right",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Elena's Portrait",
+  "chapter": "1",
+  "usedIn": ["Sexy Panther"],
+  "foundAt": "Found at: Max's House, Gerald's room, above bed",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Elevator",
+  "chapter": "5",
+  "usedIn": ["Escape Powder"],
+  "foundAt": "Found at: Gundorada Workshop, on the left and right once restorationconditions are met",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Energy Pipe",
+  "chapter": "4",
+  "usedIn": ["Energy Pack"],
+  "foundAt": "Found at: Luna Labs, glowing pipes in outer Labs",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Evening Sun",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, lake area, take a picture of the sun as it sets",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Eyeball",
+  "chapter": "1",
+  "usedIn": ["Clown Foot"],
+  "foundAt": "Found at: Dell Clinic, on the right, next to skeleton",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fan",
+  "chapter": "1",
+  "usedIn": ["Drill Arm", "Machine Gun Arm", "Machine Gun Arm II", "Propeller Leg"],
+  "foundAt": "Found at: Cedric's Shop, top floor, next to stairs",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fence",
+  "chapter": "1",
+  "usedIn": ["Iron Leg"],
+  "foundAt": "Found at: Palm Brinks, in front of Max's House",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Figure",
+  "chapter": "1",
+  "usedIn": ["Ruler's Sword"],
+  "foundAt": "Found at: Parn's Studio, any statue",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fire Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Kazarov Stonehenge, pillar on the side of the main altararea with a red lightNOTE: This is NOT the same as the Fire Gem Altar!  See the Scoopssection for the location of the Fire Gem Altar.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fire House (missable)",
+  "chapter": "2",
+  "usedIn": ["Jet Hover", "Star Breaker"],
+  "foundAt": "Found at: Blackstone One, locomotiveMissable: Only before you get Ixion",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Fireplace",
+  "chapter": "1",
+  "usedIn": ["Bread"],
+  "foundAt": "Found at: Max's House, Gerald's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fish",
+  "chapter": "1",
+  "usedIn": ["Lure Rod"],
+  "foundAt": "Found at: Max's House, kitchen, on table",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fish Race Sign",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, outside Finny Frenzy",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fishing Contest Sign",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, outside Fishing Contest",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flag",
+  "chapter": "1",
+  "usedIn": ["Clown Hand III"],
+  "foundAt": "Found at: Palm Brinks, outside Cedric's Shop, triangular",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flower",
+  "chapter": "1",
+  "usedIn": ["Lightspeed"],
+  "foundAt": "Found at: Max's House, maid's quarters, top floor on desk",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flower Bathed in Light",
+  "chapter": "7",
+  "usedIn": ["Sexy Panther"],
+  "foundAt": "Found at: Moon Flower Palace Garden, flowers in pots",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flower Bed",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace Georama; place a &quot;Flower Bed&quot;",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flower Chair",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Train Station, looks like giant flower",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flower Chandelier",
+  "chapter": "7",
+  "usedIn": ["Princess Boots", "Triple-Urn Pack", "Twin Buster"],
+  "foundAt": "Found at: Moon Flower Palace, Sun Chamber, the blue lights on the ceiling",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fountain",
+  "chapter": "1",
+  "usedIn": ["Aquarium", "Barrel Cannon", "Barrel Cannon II", "Bell Trigger", "Grenade Launcher", "Magic Gun", "Missile Pod Arm II", "Question Shooter", "Steal Gun", "Tasty Water", "Trumpet Gun"],
+  "foundAt": "Found at: Palm Brinks, in front of train station",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Freight Train",
+  "chapter": "1",
+  "usedIn": ["Roller Foot"],
+  "foundAt": "Found at: Train Station, to the right of Blackstone One",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fresco Painting",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Balance Valley, Church (Georama element), on wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fruit",
+  "chapter": "2",
+  "usedIn": ["Resurrection Powder"],
+  "foundAt": "Found at: Sindain, on Fruit Tree (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Futuron 800",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Luna Labs, main lab, glowing columns w/ pipes",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Gate",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, outside Max's House",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Generator",
+  "chapter": "5",
+  "usedIn": ["Energy Pack"],
+  "foundAt": "Found at: Heim Rada, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Geyser",
+  "chapter": "5",
+  "usedIn": ["Albatross", "Laser Arm", "Soul Breaker"],
+  "foundAt": "Found at: Heim Rada, take a picture of a geyser in the town area",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Giant Yorda Tree",
+  "chapter": "3",
+  "usedIn": ["Wooden Box Body"],
+  "foundAt": "Found at: Starlight Canyon, Yorda's Valley",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Glasses Case",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Need's Office, on left wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Glowing Gate",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Fishing Contest, arch near entrance",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Gold Gate",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Take a picture of the gate before entering the courtyard of theMoon Flower Palace",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Gold Store",
+  "chapter": "1",
+  "usedIn": ["Bandit Brassard", "Cubic Hammer", "Missile Pod Arm III", "Missile Pod Arm IV", "Super-Alloy Body"],
+  "foundAt": "Found at: Palm Brinks Weapon Shop, vault-like texture on wall to left ofcounter",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Golden Door (missable)",
+  "chapter": "7",
+  "usedIn": ["Treasure Chest Key"],
+  "foundAt": "Found at: Moon Flower Palace, Sun Chamber, the door to the Dream Spiral areaMissable: ???",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Grass",
+  "chapter": "2",
+  "usedIn": ["Wise Owl Sword"],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hammer",
+  "chapter": "5",
+  "usedIn": ["Falcon", "Hammer Arm II", "Hammer Arm III"],
+  "foundAt": "Found at: Gundorada Workshop, G-WEAPONS, behind counter",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hammock",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Firbits' House, back wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hand-Sewn Silk Flag",
+  "chapter": "3",
+  "usedIn": ["Sand Breaker"],
+  "foundAt": "Found at: Balance Valley, on Chinese Stand",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hat",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Starlight Temple, in Weapon Shop",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hoe",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Morton's House, second floor, the large tools on the back wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Holy Emblem",
+  "chapter": "3",
+  "usedIn": ["Anti-Curse Amulet", "Antidote Amulet", "Holy Water"],
+  "foundAt": "Found at: Balance Valley, inside Church",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hooked Nose",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, front of overhang over entrance",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Horn",
+  "chapter": "3",
+  "usedIn": ["Drill Arm II", "Sand Breaker"],
+  "foundAt": "Found at: Starlight Temple, in Weapon Shop",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hot Springs Pond",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Found at: Heim Rada, down the ramp to the far left of the entrance of thetown (from the train stop)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Iron Bridge",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Underground Channel, at exit (reservoir)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Iron Maiden",
+  "chapter": "1",
+  "usedIn": ["Ruler's Sword"],
+  "foundAt": "Found at: Palm Brinks Weapon Shop, bottom floor",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Iron Shed",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Veniccio, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Jurak Arms Sign",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Jurak Mall, in front of Jurak Arms",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Jurak's Eye",
+  "chapter": "2",
+  "usedIn": ["Anti-Petrify Amulet"],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Jurak's Nose",
+  "chapter": "2",
+  "usedIn": ["Twin Buster"],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Labyrinth Door (missable)",
+  "chapter": "7",
+  "usedIn": ["Treasure Chest Key"],
+  "foundAt": "Found at: Moon Flower Palace, Sun Chamber, the entrance to the levelMissable: ???",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Ladder",
+  "chapter": "1",
+  "usedIn": ["Work Shoes"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Lamp",
+  "chapter": "1",
+  "usedIn": ["Drum Can Body"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Lao Chao's Trademark",
+  "chapter": "3",
+  "usedIn": ["Cheese"],
+  "foundAt": "Found at: Lao Chao's Bistro, stained-glass window",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Large Crane",
+  "chapter": "5",
+  "usedIn": ["Falcon"],
+  "foundAt": "Found at: Heim Rada, Georama element (must be affixed to a house)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Laundry",
+  "chapter": "3",
+  "usedIn": ["Anti-Goo Amulet", "Soap"],
+  "foundAt": "Found at: Balance Valley, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Letter",
+  "chapter": "1",
+  "usedIn": ["Gift Capsule"],
+  "foundAt": "Found at: Max's House, maid's quarters, second floor, on desk",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Light",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, Gerald's Room, lamp above fireplace",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Light of Luna Stone",
+  "chapter": "4",
+  "usedIn": ["Flamingo", "Triple-Urn Pack"],
+  "foundAt": "Found at: Veniccio, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Lin's House",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Balance Valley",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Log",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Lotus Flower",
+  "chapter": "7",
+  "usedIn": ["Resurrection Powder"],
+  "foundAt": "Found at: Moon Flower Palace Garden, little flowers in the ponds",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Luna Stone Shards",
+  "chapter": "4",
+  "usedIn": ["Drill Arm III", "Ridepod Fuel"],
+  "foundAt": "Found at: Veniccio, take picture of ocean",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mailbox",
+  "chapter": "1",
+  "usedIn": ["Bucket Pack"],
+  "foundAt": "Found at: Palm Brinks",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Manhole",
+  "chapter": "1",
+  "usedIn": ["Cannon Ball Arm"],
+  "foundAt": "Found at: Palm Brinks, entrance to Underground Channel",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Milk Can",
+  "chapter": "1",
+  "usedIn": ["Cheese", "Double Pudding", "Energy Pack", "Milk Can Body"],
+  "foundAt": "Found at: Palm Brinks, in front of Polly's Bakery",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Monument",
+  "chapter": "1",
+  "usedIn": ["Non-Stop Amulet"],
+  "foundAt": "Found at: Palm Brinks, the tall... well, *monument* near the lake",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Moon Column",
+  "chapter": "7",
+  "usedIn": ["Hammer Arm IV", "Nova Cannon III", "Samurai Arm III"],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Morning Sun",
+  "chapter": "1",
+  "usedIn": ["Anti-Petrify Amulet"],
+  "foundAt": "Found at: Palm Brinks, lake area, take picture of sun as it rises",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Morton's Sundries Sign",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, in front of Morton's Sundries",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mount Gundor",
+  "chapter": "5",
+  "usedIn": ["Missile Pod Arm IV"],
+  "foundAt": "Found at: Heim Rada, take picture of mountain in background",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mud",
+  "chapter": "5",
+  "usedIn": ["Ridepod Fuel"],
+  "foundAt": "Found at: Heim Rada, Georama element (&quot;Hardened Mud Pile&quot;)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mushroom",
+  "chapter": "2",
+  "usedIn": ["Barrel Cannon", "Missile Pod Arm", "Poison Wrench"],
+  "foundAt": "Found at: Jurak Mall, after completing Georama checkpoint",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mushroom Burgers Sign",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Jurak Mall, in front of Mushroom Burgers",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Neo-Projector",
+  "chapter": "4",
+  "usedIn": ["Question Shooter"],
+  "foundAt": "Found at: Luna Labs, ceiling of the main lab",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Old-Style Robot",
+  "chapter": "1",
+  "usedIn": ["Cannon Ball Arm", "Iron Leg"],
+  "foundAt": "Found at: Cedric's Shop, top floor, on the left",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Opposed Island",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, Finny Frenzy, the islands in the center of the track",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Oven",
+  "chapter": "1",
+  "usedIn": ["Final Bomb"],
+  "foundAt": "Found at: Polly's Bakery, back wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Painting",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Paints",
+  "chapter": "1",
+  "usedIn": ["Clown Body", "Clown Foot", "Clown Hand IV</span><span id=\"faqspan-4\">"],
+  "foundAt": "Found at: Parn's Studio",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Palm Tree",
+  "chapter": "1",
+  "usedIn": ["Flamingo", "Soap"],
+  "foundAt": "Found at: Max's House, the &quot;waterfall room&quot;",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Parasol",
+  "chapter": "1",
+  "usedIn": ["Clown Body", "Clown Hand", "Clown Hand II", "Clown Shoes", "Spike Boots", "Wing Shoes"],
+  "foundAt": "Found at: Palm Brinks, umbrellas over tables",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Parn's Studio Sign",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, in front of Parn's Studio",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Patterned Rug",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Found at: Gundorada, G-Tools, the oriental-looking rug on the floor",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Paznos Pattern",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Found at: Paznos Bridge, over view screen",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Peeping Pole",
+  "chapter": "3",
+  "usedIn": ["Milk Can Body"],
+  "foundAt": "Found at: Starlight Temple, Star Items, looks like telescope",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Phone",
+  "chapter": "1",
+  "usedIn": ["Bell Trigger"],
+  "foundAt": "Found at: Max's House, maid's quarters",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Phonograph",
+  "chapter": "1",
+  "usedIn": ["Iron Leg"],
+  "foundAt": "Found at: Need's Office, next to hourglass clock",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Piano",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, main room, to the right",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pier",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, on lake",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pinky",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Ixion, the pink things near the doors between cars",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pipe",
+  "chapter": "1",
+  "usedIn": ["Clown Hand", "Energy Pack", "Stinger Wrench"],
+  "foundAt": "Found at: Palm Brinks, on top of Cedric's Shop",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Police Sign",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, in front of Police station",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Polly's Bakery Sign",
+  "chapter": "1",
+  "usedIn": ["Bread"],
+  "foundAt": "Found at: Palm Brinks, in front of Polly's Bakery",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pork Dumpling",
+  "chapter": "3",
+  "usedIn": ["Premium Chicken"],
+  "foundAt": "Found at: Starlight Temple, in Lao Chao's Restaurant",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Post",
+  "chapter": "1",
+  "usedIn": ["Cannon Ball Arm", "Cannon Ball Arm II", "Cannon Ball Arm III", "Hammer Arm", "Hammer Arm II", "Multi Feet"],
+  "foundAt": "Found at: Palm Brinks, large posts which hold blank signs over street",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pot",
+  "chapter": "1",
+  "usedIn": ["Bomb", "Energy Pack"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pot Torch",
+  "chapter": "2",
+  "usedIn": ["Nova Cannon IV"],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Power Arm",
+  "chapter": "5",
+  "usedIn": ["Clown Hand IV", "Hammer Arm IV", "Heavy Hammer", "Heavy Hammer"],
+  "foundAt": "Found at: Heim Rada, Georama element (must be affixed to house)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Propeller",
+  "chapter": "5",
+  "usedIn": ["Machine Gun Arm III", "Machine Gun Arm IV"],
+  "foundAt": "Found at: Gundorada Workshop, in the Operations Room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Pumpkin",
+  "chapter": "1",
+  "usedIn": ["Spike Boots"],
+  "foundAt": "Found at: Palm Brinks, in front of Morton's Sundries",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Quartz",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Jurak Mall, above Jurak Arms",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Railroad",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Common item (anywhere the train goes)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Rapper",
+  "chapter": "1",
+  "usedIn": ["Nova Cannon", "Trumpet Gun"],
+  "foundAt": "Found at: Cedric's Shop, top floor, on barrel, looks like trumpet",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Red House",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Veniccio, on cliff",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Refrigerator",
+  "chapter": "1",
+  "usedIn": ["Refrigerator Body"],
+  "foundAt": "Found at: Morton's Sundries, in back, holding giant watermelon",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Register",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: On counters in shops",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Relaxation Fountain",
+  "chapter": "7",
+  "usedIn": ["Jet Hover", "Laser Arm III"],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Rifle",
+  "chapter": "1",
+  "usedIn": ["Dark Viper", "Machine Gun Arm", "Machine Gun Arm III", "Sexy Panther", "Twin Buster", "Wild Cat"],
+  "foundAt": "Found at: Max's House, Gerald's room, above door",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "River",
+  "chapter": "1",
+  "usedIn": ["Bucket Leg", "Lure Rod"],
+  "foundAt": "Found at: Palm Brinks, river under drawbridge",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Road to Golbad",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Robot",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, Max's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Rock",
+  "chapter": "1",
+  "usedIn": ["Cannon Ball Arm II", "Cannon Ball Arm IV", "Lightspeed", "Smash Wrench"],
+  "foundAt": "Found at: Palm Brinks, any large rock near the lake",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Rotating Sign",
+  "chapter": "3",
+  "usedIn": ["Missile Pod Arm", "Roller Foot"],
+  "foundAt": "Found at: Balance Valley, on Chinese Stand",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Rug",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks Church, on floor between rows of candles",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Runaway Dragon",
+  "chapter": "3",
+  "usedIn": ["Dragon Shoes", "Machine Gun Arm", "Samurai Arm II"],
+  "foundAt": "Found at: Lao Chao's Bistro, around roof",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Saint's Writings",
+  "chapter": "3",
+  "usedIn": ["Anti-Curse Amulet"],
+  "foundAt": "Found at: Balance Valley, inside Church",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Saw",
+  "chapter": "1",
+  "usedIn": ["Iron Leg"],
+  "foundAt": "Found at: Dell Clinic, behind Dr. Dell",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Scale",
+  "chapter": "3",
+  "usedIn": ["Clown Foot", "Clown Hand II"],
+  "foundAt": "Found at: Fishing Contest, used when weighing fish",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Scroll",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Lao Chao's Bistro, giant hanging scrolls",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Search Light",
+  "chapter": "4",
+  "usedIn": ["Laser Arm III", "Super-Alloy Body"],
+  "foundAt": "Found at: Luna Labs, large purple pink down on the ocean (look over therailing of the entryway to see them)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Shield",
+  "chapter": "1",
+  "usedIn": ["Knight Boots"],
+  "foundAt": "Found at: Palm Brinks Weapon Shop, on shelf across from counter",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Show Window",
+  "chapter": "1",
+  "usedIn": ["Bandit Brassard"],
+  "foundAt": "Found at: Palm Brinks Weapon Shop, part of Gold Store vault, has window withtwo swords on display",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Shrubbery",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, low, wooden boxes with bushes",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sign",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, the small, blank signs hanging off random buildings",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Silver Bench",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Small Generator",
+  "chapter": "4",
+  "usedIn": ["Refrigerator Body"],
+  "foundAt": "Found at: Veniccio, in Iron House (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Special Peking Duck",
+  "chapter": "3",
+  "usedIn": ["Premium Chicken", "Turkey"],
+  "foundAt": "Found at: Lao Chao's Bistro",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Stained Glass",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, main room, above top balcony",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Staircase",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, Train Station, main staircase",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Stand",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, Need's Office, lamp on Need's desk",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Star Lamp",
+  "chapter": "3",
+  "usedIn": ["Smash Wrench"],
+  "foundAt": "Found at: Balance Valley, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Stardust Pond",
+  "chapter": "7",
+  "usedIn": ["Ridepod Fuel"],
+  "foundAt": "Found at:  Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Starlight Stairway",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at: Moon Flower Palace, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Starlight Tunnel",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Found at:  Moon Flower Palace, Georama element (&quot;Starlight Stairway&quot;)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Starglass",
+  "chapter": "3",
+  "usedIn": ["Non-Stop Amulet"],
+  "foundAt": "Found at: Starlight Temple, Star Items, crystal above counter",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Stove",
+  "chapter": "1",
+  "usedIn": ["Nova Cannon III"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Streetlight",
+  "chapter": "1",
+  "usedIn": ["Nova Cannon II"],
+  "foundAt": "Found at: Palm Brinks, lamps lighting streets at night",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sulfur-Colored Juice",
+  "chapter": "5",
+  "usedIn": ["Poison Wrench"],
+  "foundAt": "Found at: Gundorada Workshop, in G-ITEMS store on first level, on theleft (large jug on the floor)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sun Chair",
+  "chapter": "7",
+  "usedIn": ["Level-up Powder"],
+  "foundAt": "Found at: Moon Flower Palace Garden, chair at end of path",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sun Table",
+  "chapter": "7",
+  "usedIn": ["Level-up Powder"],
+  "foundAt": "Found at: Moon Flower Palace Garden, table at end of path",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sunshade",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Palm Brinks, over doors",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "System 5WP2",
+  "chapter": "4",
+  "usedIn": ["Buggy"],
+  "foundAt": "Found at: Luna Labs, on walls of main lab (yellow circle with smaller purplecircles around it",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "T.V.",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Found at: Veniccio, inside Iron House (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Table",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Telescope",
+  "chapter": "1",
+  "usedIn": ["Machine Gun Arm II", "Samurai Body"],
+  "foundAt": "Found at: Max's House, Max's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "The Moon",
+  "chapter": "1",
+  "usedIn": ["Knight Boots", "Magic Gun", "Panther Boots", "Sun &amp; Moon Armor"],
+  "foundAt": "Found at: Any picture of the moon",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "The Sun",
+  "chapter": "1",
+  "usedIn": ["Holy Water", "Level-up Powder", "Magic Gun", "Nova Cannon", "Nova Cannon II", "Nova Cannon III", "Nova Cannon IV", "Sun &amp; Moon Armor"],
+  "foundAt": "Found at: Just take a picture of the sun when it's overhead",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Tiny Hammer",
+  "chapter": "1",
+  "usedIn": ["Flamingo", "Hammer Arm IV", "Swan"],
+  "foundAt": "Found at: Cedric's Shop, hammers on wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Torch",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Balance Valley, on plateaus",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Traffic Light",
+  "chapter": "1",
+  "usedIn": ["Refrigerator Body"],
+  "foundAt": "Found at: Palm Brinks, over drawbridge",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Transmission Device",
+  "chapter": "5",
+  "usedIn": ["Escape Powder", "Soul Breaker"],
+  "foundAt": "Found at: Gundorada Workshop, take a picture of the Jump Gate near the TimeGate",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Trashcan",
+  "chapter": "1",
+  "usedIn": ["Bucket Leg", "Bucket Pack", "Iron Leg"],
+  "foundAt": "Found at: Palm Brinks",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Tree",
+  "chapter": "1",
+  "usedIn": ["Albatross", "Bell Trigger", "Energy Pack"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Vacuum",
+  "chapter": "1",
+  "usedIn": ["Cleaner Pack"],
+  "foundAt": "Found at: Cedric's Shop, bottom floor, on work table",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Vacuum Bag",
+  "chapter": "1",
+  "usedIn": ["Cleaner Pack"],
+  "foundAt": "Found at: Cedric's Shop, bottom floor, look like pushcart trash cans",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Vegetable/Fruit",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Max's House, maid's quarters",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Vending Machine",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Morton's Sundries, immediately to left of door",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Ventilation",
+  "chapter": "4",
+  "usedIn": ["Roller Foot"],
+  "foundAt": "Found at: Veniccio, ceiling of Iron House (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Victory Stand",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Found at: Fishing Contest/Finny Frenzy",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Warehouse",
+  "chapter": "3",
+  "usedIn": ["Bucket Pack"],
+  "foundAt": "Found at: Balance Valley, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Water Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Kazarov Stonehenge, pillar on the side of the main altararea with a blue lightNOTE: This is NOT the same as the Water Gem Altar!  See the Scoopssection for the location of the Water Gem Altar.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Water Tank",
+  "chapter": "4",
+  "usedIn": ["Barrel Cannon III", "Bucket Leg", "Cleaner Pack"],
+  "foundAt": "Found at: Finny Frenzy, on sides of tent inside",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Water Wheel",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Sindain, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Waterfall",
+  "chapter": "1",
+  "usedIn": ["Anti-Goo Amulet", "Barrel Cannon III", "Dragon Shoes", "Soap", "Tasty Water"],
+  "foundAt": "Found at: Underground Channel, at exit (reservoir)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Waterfall Curtain",
+  "chapter": "7",
+  "usedIn": ["Princess Boots"],
+  "foundAt": "Found at: Moon Flower Palace Garden, waterfalls flanking the path",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Weapon",
+  "chapter": "1",
+  "usedIn": ["Samurai Arm", "Samurai Arm II", "Samurai Arm III"],
+  "foundAt": "Found at: Palm Brinks Weapon Shop, hanging on wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Weapon Shop Sign",
+  "chapter": "1",
+  "usedIn": ["Bomb"],
+  "foundAt": "Found at: Palm Brinks, in front of Weapon Shop",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Weather Vane",
+  "chapter": "4",
+  "usedIn": ["Wing Boots"],
+  "foundAt": "Found at: Balance Valley, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Weight Gauge",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Found at: Cedric's Shop, top floor, next to robot",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Well",
+  "chapter": "3",
+  "usedIn": ["Antidote Drink", "Barrel Cannon II", "Bucket Leg"],
+  "foundAt": "Found at: Balance Valley, Georama element",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Wheat Flour",
+  "chapter": "1",
+  "usedIn": ["Bread", "Double Pudding"],
+  "foundAt": "Found at: Morton's Sundries, across from counter, next to Vending Machine",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Wheel",
+  "chapter": "1",
+  "usedIn": ["Caterpillar", "Roller Foot", "Roller Foot", "Stinger Wrench"],
+  "foundAt": "Found at: Palm Brinks Bar, high on left wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Wind Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Found at: Kazarov Stonehenge, pillar on the side of the main altararea with a green lightNOTE: This is NOT the same as the Wind Gem Altar!  See the Scoopssection for the location of the Wind Gem Altar.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Windmill",
+  "chapter": "4",
+  "usedIn": ["Drill Arm", "Machine Gun Arm II", "Machine Gun Arm III"],
+  "foundAt": "Found at: Veniccio Station, on grass huts",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Windmill Feather",
+  "chapter": "4",
+  "usedIn": ["Propeller Leg", "Turkey", "Wing Boots", "Wing Shoes"],
+  "foundAt": "Found at: Veniccio, on Windmill (Georama element)",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Window",
+  "chapter": "1",
+  "usedIn": ["Aquarium"],
+  "foundAt": "Found at: Claire's House, Claire's room",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Withered Jurak",
+  "chapter": "2",
+  "usedIn": ["Bone Rapier", "Falcon"],
+  "foundAt": "Found at: Sindain, large withered stump in back with water pouring off",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Wooden Bookshelf",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Sindain, Firbits' House, tree holding books",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Wooden Box",
+  "chapter": "1",
+  "usedIn": ["Aquarium", "Missile Pod Arm", "Missile Pod Arm II", "Wooden Box Body"],
+  "foundAt": "Found at: Common item",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Woody Tailor Sign",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Found at: Jurak Mall, outside Woody Tailor",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Work Arm",
+  "chapter": "4",
+  "usedIn": ["Clown Hand III", "Drill Arm II", "Drill Arm III", "Drill Arm IV", "Hammer Arm II"],
+  "foundAt": "Found at: Luna Labs, main lab, arms attached to Futuron 800",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Work Crane",
+  "chapter": "5",
+  "usedIn": ["Samurai Arm II", "Steal Gun"],
+  "foundAt": "Found at: Gundorada Workshop, large steel spikes on the third floor",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Work Equipment",
+  "chapter": "4",
+  "usedIn": ["Cubic Hammer", "Super-Alloy Body", "Wild Cat"],
+  "foundAt": "Found at: Luna Labs, outer labs, above Work Robot",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Work Robot",
+  "chapter": "4",
+  "usedIn": ["Hammer Arm", "Metal Boots", "Multi Feet"],
+  "foundAt": "Found at: Luna Labs, outer labs, work platform in center of lab",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Zelmite Found!",
+  "chapter": "8",
+  "usedIn": [],
+  "foundAt": "Found at: Zelmite Mine, Zelmite Mines Depths, the blue crystals in the wall",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "A Surviving Soldier (ghost)",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: A warrior who died long ago in Veniccio roams around night afternight.  What? You scared?",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Ancient Mural",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Grab a nice shot of the mural of the imaginary world of the &quot;Moonof Destruction&quot;.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Baron's Hangin' On",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of Baron Balloon being flipped over by a Vanguardduring a Trample Attack!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Bomber Head Boom!",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: This one might be a little tough.  You need to get a shot of thisthing when it comes after you and self-destructs.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Brave Little Linda (missable)",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Watch for the moment Linda stomps down on you with her frontfoot.  It might be a little scary, but you can do it.Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Burning Dragon Fire",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: The moment a dragon, with its piercing gaze, spits fire at you.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Changing Dog Statue",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: The moment that cute Dog Statue changes its shape, you click thatshutter.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Charging Ram",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: They've got big bellies, but they also got the fastest legs youever did see.  Just catch one of them on film, buddy.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Clown Robo's Attack (missable)",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Catch that horrifying moment when the Clown Robo launches itsmissiles.  But watch out 'cause you won't have much time!Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Dangerous Pumpkin",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: When it's swinging its weapon, Pumpkinhead's a dangerous one.Catch it in the act, kid.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Doctor Jaming (missable)",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of Jaming in action, pulling the Shiguras' strings.Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Earth Gem Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of the Earth Gem Altar in Rainbow Butterfly Wood.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Face Behind the Devil Mask",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Those Masked Tribesmen fall flat on their backs.  Get in thereand snap one of their silly faces behind their mask shields.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Faintin' Bone Lord",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: When that Bone Lord goes unconscious, watch him, because his eyesgo all googley.  Take the shot then.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fallen Battleship",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a nice shot of the site where that Death Ark crashed!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Find the Golden Egg!",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Go for a shot of that fantastic shiny golden egg at Jurak Mall inthe future.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fire Gem Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of the Fire Gem Altar in Mount Gundor.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Fire Squall (missable)",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: The fearsome device Fire Squall that rains fire on Heim Rada.  Goget a shot of that!Missable: Only before you blow it up :-)",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Floatin' Earth Digger",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: They're always moving around underground.  Catch one of themMolers up in the air a rare sight indeed.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flotsam Revived! (missable)",
+  "chapter": "8",
+  "usedIn": ["Nova Cannon IV", "Samurai Arm IV"],
+  "foundAt": "Found at: Zelmite Mines, A Suspicious Opening, &quot;Immortal Clown Metal Flotsam&quot;Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Flower of the Sun",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a picture of a Sun Flower from the Flower Garden orAlexandra's room.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Flying Battleship (missable)",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Try pointin' your camera at Death Ark, the flying warship.Missable: Only during boss battles",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Gigantor Paznos",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of the rebel army's mobile base, Paznos, fromKazarov Stonehenge.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Griffon's Real Face (missable)",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Emperor Griffon, master of darkness.  It'd certainly be a scoopto get one of him.Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Gyumo's Yell",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Right when Gyumo's screaming.  Maybe, it's trying to intimidateeveryone.  Get this moment on film.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hot Springs Spirit (ghost)",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: I've heard Heim Rada is a bit of a spot for ghosts.  Don't worry.You won't be cursed.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hurray For Rock Man!",
+  "chapter": "3",
+  "usedIn": ["hands over head"],
+  "foundAt": "Scoop Memo: An attack by a Golem.  Get it the second one raises up both arms.Temperamental buggers, aren't they?",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Hmmmm! Jurak",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Grab a shot of Jurak, the resurrected Elder of the ForestSpirits.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Ixion",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: The superexpress that flies through time and space!  Get apicture of Ixion!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Kazarov Stonehenge",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Check out the three altars in the center of Kazarov Stonehenge.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "King Mardan (missable)",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: It's the peculiar giant fish from Fish Monster Swamp.  It may bea little gross, but I know you can handle it.Missable: Only until you give him the Priscleen",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Lafrescia Stem",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: The impossibly big Lafrecia.  Catch its fully grown stem for agreat shot.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Lava Road",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: What would happen if you blew the legendary Fire Horn?  Whoknows?  But make sure you have your camera at the ready!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Legend of the Moon",
+  "chapter": "7",
+  "usedIn": ["Laser Arm IV", "Samurai Arm IV"],
+  "foundAt": "Found at: Moon Flower Palace, Dream Spiral, while timer is counting down",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Master Utan",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Aim for Master Utan when it's in pain from eating the ForbiddenFruit.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Moon Crystal",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: You know that big crystal in the middle of Starlight Temple?  Geta shot of that.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Moon Flower Palace",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: It's the castle where Griffon is.  Real fancy place.  Get a shotof the entrance as proof you were there.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Mr. Big Shot's Shadow (missable)",
+  "chapter": "8",
+  "usedIn": [],
+  "foundAt": "Found at: Zelmite Mines, Zelmite Mines Depths, the Dark GenieMissable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Nice Massage",
+  "chapter": "3",
+  "usedIn": ["looks like it's rubbing its back"],
+  "foundAt": "Scoop Memo: This one's the best.  Priest of Rama likes his massages.  Watchfor the funniest part.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Night Stalker",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: This one thinks it's a ballerina.  Snap it the moment it does itsspinning attack.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Paznos",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Try for a shot of the aerial fortress, Paznos.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Phantom Memo Eater (missable)",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Those Memo-Eaters are hard to find.  And they never traveltogether.  How's that for a scoop?Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Puppet Shingala (missable)",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Catch Shingala being controlled in the heat of battle.  It'squite the sight...Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "R. Butterfly United (missable)",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: You probably want to get a shot of the butterfly fused backtogether.  That'd make a much better picture.Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Ruler of the Pond (ghost)",
+  "chapter": "1",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: It's kind of like a haunted picture, that haze around Palm BrinksPark...",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Spinning Ivanoff",
+  "chapter": "3",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: This guy comes spinning at you at top speed, trying to knock youdown!  So be quick with that shutter finger of yours!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Spooky Grass Smile",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Man-Eating Grass has a creepy smile.  Looks like it's eatingsomething.  That's when you get the shot.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Sun Chamber Gate Keeper",
+  "chapter": "7",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of the bronze statue in front of the Sun Gate.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Symbol of Luna Lab",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Look for the Luna Lab emblem up above the Central Lab.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "The Ultimate Gaspard (missable)",
+  "chapter": "5",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Gaspard can change his appearance using Griffon's magic.  Get ashot of that!Missable: Only during boss battle",
+  "checked": false,
+  "hide": false,
+  "missable": true
+}, {
+  "title": "Tore's Nap",
+  "chapter": "2",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Tore may be a big bulky beast, but it sure does like its naps.Sneak in and snap it then!",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Veniccio's Evening Sun",
+  "chapter": "4",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Try and get a shot of the sun sinking behind the horizon off theVeniccio coast.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}, {
+  "title": "Water Gem Altar",
+  "chapter": "6",
+  "usedIn": [],
+  "foundAt": "Scoop Memo: Get a shot of the Water Gem Altar in Ocean's Roar Cave.",
+  "checked": false,
+  "hide": false,
+  "missable": false
+}]

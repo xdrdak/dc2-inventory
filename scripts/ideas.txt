@@ -1,0 +1,1345 @@
+Air Cleaner [Chapter 4]
+Used in: 3 (Barrel Cannon IV, Cleaner Pack, Stinger Wrench)
+Found at: Luna Labs, outer Labs, in corner
+
+Alexandra's Bed [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, Alexandria's Room
+
+Auto Book Reader [Chapter 1]
+Used in: 1 (Drill Arm)
+Found at: Cedric's Shop, top floor, holding book with idea
+
+Banana [Chapter 4]
+Used in: 0
+Found at: Veniccio, inside Iron House (Georama element)
+
+Bar Sign [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, outside Bar
+
+Barrel [Chapter 1]
+Used in: 8 (Barrel Cannon, Barrel Cannon II, Barrel Cannon III,
+Barrel Cannon IV, Energy Pack (Barrel), Hammer Arm, Laser Arm, Samurai Arm)
+Found at: Common item
+
+Basket Steamer [Chapter 3]
+Used in: 0
+Found at: Balance Valley, on Chinese Stand
+
+Bed [Chapter 1]
+Used in: 1 (Antidote Amulet)
+Found at: Common item
+
+Belt [Chapter 1]
+Used in: 7 (Buggy, Cleaner Pack, Energy Pack, Energy Pack (Barrel),
+Knight Boots, Metal Boots, Wing Boots)
+Found at: Palm Brinks, worn by Sheriff Blinkhorn
+
+Bench [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, next to lake
+
+Binoculars [Chapter 1]
+Used in: 0
+Found at: Cedric's Shop, top floor, on stand on counter
+
+Blackstone One (missable) [Chapter 1]
+Used in: 0
+Found at: Train Station, any exterior shot
+Missable: Only before you get Ixion
+
+Blue Lantern [Chapter 7]
+Used in: 1 (Laser Arm IV)
+Found at: Moon Flower Palace, Flower Garden
+
+Boat [Chapter 1]
+Used in: 1 (Swan)
+Found at: Palm Brinks, on lake, by pier
+
+Bone [Chapter 1]
+Used in: 3 (Bone Rapier, Gift Capsule, Panther Boots)
+Found at: Dell Clinic, the skeleton
+
+Book [Chapter 1]
+Used in: 1 (Steal Gun)
+Found at: Common item
+
+Bottle [Chapter 1]
+Used in: 4 (Antidote Drink, Holy Water, Stamina Drink, Tasty Water)
+Found at: Common item
+
+Bread [Chapter 1]
+Used in: 0
+Found at: Polly's Bakery
+
+Bridge [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, the stone bridges in front of Max's House
+
+Cafe Sign [Chapter 1]
+Used in: 1 (Cheese)
+Found at: Palm Brinks, in front of Cafe
+
+Camellia Tree [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, Georama element
+
+Can [Chapter 1]
+Used in: 2 (Bucket Leg, Cleaner Pack)
+Found at: Polly's Bakery, on shelf
+
+Candle [Chapter 1]
+Used in: 5 (Bomb, Final Bomb, Improved Bomb, Jet Hover, Lightspeed)
+Found at: Palm Brinks Church
+
+Car [Chapter 1]
+Used in: 2 (Buggy, Caterpillar)
+Found at: Palm Brinks Bar, it's what the bartender is standing in
+
+Cart [Chapter 1]
+Used in: 2 (Caterpillar, Propeller Leg)
+Found at: Palm Brinks, two large wheels with cargo area between them and two
+long handles
+
+Cedric's Shop Sign [Chapter 1]
+Used in: 1 (Samurai Body)
+Found at: Palm Brinks, in front of Cedric's Shop
+
+Chair [Chapter 1]
+Used in: 2 (Drum Can Body, Leather Shoes)
+Found at: Common item
+
+Chandelier [Chapter 1]
+Used in: 0
+Found at: Common item
+
+Chimney [Chapter 1]
+Used in: 4 (Grenade Launcher, Hammer Arm III, Milk Can Body, Star Breaker)
+Found at: Palm Brinks, outside Parn's Studio
+
+Chinese Lantern [Chapter 3]
+Used in: 1 (Stamina Drink)
+Found at: Balance Valley, on Chinese Stand
+
+Cinders (missable) [Chapter 5]
+Used in: 1 (Final Bomb)
+Found at: Heim Rada, build a straw hut and let it burned while embers fall
+Missable: Only before you destroy the Fire Squall
+
+Clock [Chapter 1]
+Used in: 3 (Anti-Petrify Amulet, Bandit Brassard, Non-Stop Amulet)
+Found at: Common item
+
+Cloth [Chapter 1]
+Used in: 6 (Bone Rapier, Clown Shoes, Dragon Shoes, Leather Shoes,
+Wing Shoes, Work Shoes)
+Found at: Parn's Studio, on the floor
+
+Coal (missable) [Chapter 2]
+Used in: 1 (Improved Bomb)
+Found at: Blackstone One, locomotive
+Missable: Only before you get Ixion
+
+Computer [Chapter 5]
+Used in: 1 (Digi Hammer)
+Found at: Gundorada Workshop, in the Operations Room
+
+Constructor [Chapter 1]
+Used in: 7 (Cannon Ball Arm II, Cannon Ball Arm III, Cannon Ball Arm IV,
+Digi Hammer, Iron Leg, Smash Wrench, Work Shoes)
+Found at: Cedric's Shop, bottom floor, where Steve was built
+
+Crescent-Shaped Light [Chapter 3]
+Used in: 3 (Laser Arm II, Samurai Arm, Samurai Body)
+Found at: Starlight Temple, Star Items, near roof
+
+Cup [Chapter 1]
+Used in: 1 (Clown Body)
+Found at: Palm Brinks Train Station, at bar
+
+Curtain [Chapter 1]
+Used in: 0
+Found at: Max's House, Max's room
+
+Dead Tree (missable) [Chapter 6]
+Used in: 0
+Found at: Griffon's Palace, the dead-looking trees
+Missable: ???
+
+Decorative Lights [Chapter 5]
+Used in: 1 (Digi Hammer)
+Found at: Gundorada Workshop, in G-PARTS store on second level on the
+walls (looks like a string of Christmas lights)
+
+Deer Horn [Chapter 1]
+Used in: 5 (Drill Arm IV, Missile Pod Arm III, Multi Feet, Poison Wrench,
+Samurai Arm III)
+Found at: Need's Office, on left wall
+
+Dell Clinic Sign [Chapter 1]
+Used in: 2 (Antidote Amulet, Antidote Drink)
+Found at: Palm Brinks, in front of Dell's Clinic
+
+Display Robo [Chapter 5]
+Used in: 0
+Found at: Gundorada Workshop, G-PARTS store on second level, on left
+
+Drawbridge [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, it's the big bridge over the river
+
+Drawer [Chapter 1]
+Used in: 0
+Found at: Max's House, Max's room
+
+Dresser [Chapter 1]
+Used in: 1 (Cubic Hammer)
+Found at: Max's House, Max's room
+
+Drum Can [Chapter 5]
+Used in: 4 (Drum Can Body, Heavy Hammer, Machine Gun Arm IV, Metal Boots)
+Found at: Gundorada Workshop, in G-PARTS store on the second level, on the
+left
+
+Earth Altar [Chapter 6]
+Used in: 0
+Found at: Kazarov Stonehenge, pillar on the side of the main altar
+area with a yellow light
+NOTE: This is NOT the same as the Earth Gem Altar!  See the Scoops
+section for the location of the Earth Gem Altar.
+
+Egg [Chapter 1]
+Used in: 3 (Clown Foot, Grenade Launcher, Improved Bomb)
+Found at: Dell Clinic, on high shelf on right wall
+
+Egg Chair [Chapter 4]
+Used in: 1 (Cannon Ball Arm IV)
+Found at: Luna Labs, outer Labs
+
+Egg-Shaped Transmitter [Chapter 4]
+Used in: 0
+Found at: Veniccio, in Iron House (Georama element)
+
+Electric Bulletin [Chapter 3]
+Used in: 0
+Found at: Fishing Contest, in tent, looks like TV
+
+Electric Sesame [Chapter 5]
+Used in: 2 (Drill Arm II, Sun &amp; Moon Armor)
+Found at: Gundorada Workshop, in G-PARTS store on the second level, device
+that looks like a top to your right
+
+Elena's Portrait [Chapter 1]
+Used in: 1 (Sexy Panther)
+Found at: Max's House, Gerald's room, above bed
+
+Elevator [Chapter 5]
+Used in: 1 (Escape Powder)
+Found at: Gundorada Workshop, on the left and right once restoration
+conditions are met
+
+Energy Pipe [Chapter 4]
+Used in: 6 (Energy Pack (Urn), Laser Arm, Laser Arm II, Laser Arm III, Laser
+Arm IV, Soul Breaker)
+Found at: Luna Labs, glowing pipes in outer Labs
+
+Evening Sun [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, lake area, take a picture of the sun as it sets
+
+Eyeball [Chapter 1]
+Used in: 1 (Clown Foot)
+Found at: Dell Clinic, on the right, next to skeleton
+
+Fan [Chapter 1]
+Used in: 4 (Drill Arm, Machine Gun Arm, Machine Gun Arm II, Propeller Leg)
+Found at: Cedric's Shop, top floor, next to stairs
+
+Fence [Chapter 1]
+Used in: 1 (Iron Leg)
+Found at: Palm Brinks, in front of Max's House
+
+Figure [Chapter 1]
+Used in: 1 (Ruler's Sword)
+Found at: Parn's Studio, any statue
+
+Fire Altar [Chapter 6]
+Used in: 0
+Found at: Kazarov Stonehenge, pillar on the side of the main altar
+area with a red light
+NOTE: This is NOT the same as the Fire Gem Altar!  See the Scoops
+section for the location of the Fire Gem Altar.
+
+Fire House (missable) [Chapter 2]
+Used in: 2 (Jet Hover, Star Breaker)
+Found at: Blackstone One, locomotive
+Missable: Only before you get Ixion
+
+Fireplace [Chapter 1]
+Used in: 1 (Bread)
+Found at: Max's House, Gerald's room
+
+Fish [Chapter 1]
+Used in: 1 (Lure Rod)
+Found at: Max's House, kitchen, on table
+
+Fish Race Sign [Chapter 4]
+Used in: 0
+Found at: Palm Brinks, outside Finny Frenzy
+
+Fishing Contest Sign [Chapter 3]
+Used in: 0
+Found at: Palm Brinks, outside Fishing Contest
+
+Flag [Chapter 1]
+Used in: 1 (Clown Hand III)
+Found at: Palm Brinks, outside Cedric's Shop, triangular
+
+Flower [Chapter 1]
+Used in: 1 (Lightspeed)
+Found at: Max's House, maid's quarters, top floor on desk
+
+Flower Bathed in Light [Chapter 7]
+Used in: 1 (Sexy Panther)
+Found at: Moon Flower Palace Garden, flowers in pots
+
+Flower Bed [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace Georama; place a &quot;Flower Bed&quot;
+
+Flower Chair [Chapter 1]
+Used in: 0
+Found at: Train Station, looks like giant flower
+
+Flower Chandelier [Chapter 7]
+Used in: 3 (Princess Boots, Triple-Urn Pack, Twin Buster)
+Found at: Moon Flower Palace, Sun Chamber, the blue lights on the ceiling
+
+Fountain [Chapter 1]
+Used in: 11 (Aquarium, Barrel Cannon, Barrel Cannon II, Bell Trigger,
+Grenade Launcher, Magic Gun, Missile Pod Arm II, Question Shooter,
+Steal Gun, Tasty Water, Trumpet Gun)
+Found at: Palm Brinks, in front of train station
+
+Freight Train [Chapter 1]
+Used in: 1 (Roller Foot)
+Found at: Train Station, to the right of Blackstone One
+
+Fresco Painting [Chapter 3]
+Used in: 0
+Found at: Balance Valley, Church (Georama element), on wall
+
+Fruit [Chapter 2]
+Used in: 1 (Resurrection Powder)
+Found at: Sindain, on Fruit Tree (Georama element)
+
+Futuron 800 [Chapter 4]
+Used in: 0
+Found at: Luna Labs, main lab, glowing columns w/ pipes
+
+Gate [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, outside Max's House
+
+Generator [Chapter 5]
+Used in: 3 (Energy Pack (Urn), Missile Pod Arm III, Nova Cannon)
+Found at: Heim Rada, Georama element
+
+Geyser [Chapter 5]
+Used in: 3 (Albatross, Laser Arm, Soul Breaker)
+Found at: Heim Rada, take a picture of a geyser in the town area
+
+Giant Yorda Tree [Chapter 3]
+Used in: 1 (Wooden Box Body)
+Found at: Starlight Canyon, Yorda's Valley
+
+Glasses Case [Chapter 1]
+Used in: 0
+Found at: Need's Office, on left wall
+
+Glowing Gate [Chapter 3]
+Used in: 0
+Found at: Fishing Contest, arch near entrance
+
+Gold Gate [Chapter 6]
+Used in: 0
+Found at: Take a picture of the gate before entering the courtyard of the
+Moon Flower Palace
+
+Gold Store [Chapter 1]
+Used in: 5 (Bandit Brassard, Cubic Hammer, Missile Pod Arm III,
+Missile Pod Arm IV, Super-Alloy Body)
+Found at: Palm Brinks Weapon Shop, vault-like texture on wall to left of
+counter
+
+Golden Door (missable) [Chapter 7]
+Used in: 1 (Treasure Chest Key)
+Found at: Moon Flower Palace, Sun Chamber, the door to the Dream Spiral area
+Missable: ???
+
+Grass [Chapter 2]
+Used in: 1 (Wise Owl Sword)
+Found at: Sindain, Georama element
+
+Hammer [Chapter 5]
+Used in: 3 (Falcon, Hammer Arm II, Hammer Arm III)
+Found at: Gundorada Workshop, G-WEAPONS, behind counter
+
+Hammock [Chapter 2]
+Used in: 0
+Found at: Firbits' House, back wall
+
+Hand-Sewn Silk Flag [Chapter 3]
+Used in: 1 (Sand Breaker)
+Found at: Balance Valley, on Chinese Stand
+
+Hat [Chapter 3]
+Used in: 0
+Found at: Starlight Temple, in Weapon Shop
+
+Hoe [Chapter 1]
+Used in: 0
+Found at: Morton's House, second floor, the large tools on the back wall
+
+Holy Emblem [Chapter 3]
+Used in: 3 (Anti-Curse Amulet, Antidote Amulet, Holy Water)
+Found at: Balance Valley, inside Church
+
+Hooked Nose [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, front of overhang over entrance
+
+Horn [Chapter 3]
+Used in: 2 (Drill Arm II, Sand Breaker)
+Found at: Starlight Temple, in Weapon Shop
+
+Hot Springs Pond [Chapter 5]
+Used in: 0
+Found at: Heim Rada, down the ramp to the far left of the entrance of the
+town (from the train stop)
+
+Iron Bridge [Chapter 1]
+Used in: 0
+Found at: Underground Channel, at exit (reservoir)
+
+Iron Maiden [Chapter 1]
+Used in: 1 (Ruler's Sword)
+Found at: Palm Brinks Weapon Shop, bottom floor
+
+Iron Shed [Chapter 4]
+Used in: 0
+Found at: Veniccio, Georama element
+
+Jurak Arms Sign [Chapter 2]
+Used in: 0
+Found at: Jurak Mall, in front of Jurak Arms
+
+Jurak's Eye [Chapter 2]
+Used in: 1 (Anti-Petrify Amulet)
+Found at: Sindain, Georama element
+
+Jurak's Nose [Chapter 2]
+Used in: 1 (Twin Buster)
+Found at: Sindain, Georama element
+
+Labyrinth Door (missable) [Chapter 7]
+Used in: 1 (Treasure Chest Key)
+Found at: Moon Flower Palace, Sun Chamber, the entrance to the level
+Missable: ???
+
+Ladder [Chapter 1]
+Used in: 1 (Work Shoes)
+Found at: Common item
+
+Lamp [Chapter 1]
+Used in: 1 (Drum Can Body)
+Found at: Common item
+
+Lao Chao's Trademark [Chapter 3]
+Used in: 1 (Cheese)
+Found at: Lao Chao's Bistro, stained-glass window
+
+Large Crane [Chapter 5]
+Used in: 1 (Falcon)
+Found at: Heim Rada, Georama element (must be affixed to a house)
+
+Laundry [Chapter 3]
+Used in: 2 (Anti-Goo Amulet, Soap)
+Found at: Balance Valley, Georama element
+
+Letter [Chapter 1]
+Used in: 1 (Gift Capsule)
+Found at: Max's House, maid's quarters, second floor, on desk
+
+Light [Chapter 1]
+Used in: 0
+Found at: Max's House, Gerald's Room, lamp above fireplace
+
+Light of Luna Stone [Chapter 4]
+Used in: 2 (Flamingo, Triple-Urn Pack)
+Found at: Veniccio, Georama element
+
+Lin's House [Chapter 3]
+Used in: 0
+Found at: Balance Valley
+
+Log [Chapter 2]
+Used in: 0
+Found at: Sindain, Georama element
+
+Lotus Flower [Chapter 7]
+Used in: 1 (Resurrection Powder)
+Found at: Moon Flower Palace Garden, little flowers in the ponds
+
+Luna Stone Shards [Chapter 4]
+Used in: 2 (Drill Arm III, Ridepod Fuel)
+Found at: Veniccio, take picture of ocean
+
+Mailbox [Chapter 1]
+Used in: 1 (Bucket Pack)
+Found at: Palm Brinks
+
+Manhole [Chapter 1]
+Used in: 1 (Cannon Ball Arm)
+Found at: Palm Brinks, entrance to Underground Channel
+
+Milk Can [Chapter 1]
+Used in: 4 (Cheese, Double Pudding, Energy Pack, Milk Can Body)
+Found at: Palm Brinks, in front of Polly's Bakery
+
+Monument [Chapter 1]
+Used in: 1 (Non-Stop Amulet)
+Found at: Palm Brinks, the tall... well, *monument* near the lake
+
+Moon Column [Chapter 7]
+Used in: 3 (Hammer Arm IV, Nova Cannon III, Samurai Arm III)
+Found at: Moon Flower Palace, Georama element
+
+Morning Sun [Chapter 1]
+Used in: 1 (Anti-Petrify Amulet)
+Found at: Palm Brinks, lake area, take picture of sun as it rises
+
+Morton's Sundries Sign [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, in front of Morton's Sundries
+
+Mount Gundor [Chapter 5]
+Used in: 1 (Missile Pod Arm IV)
+Found at: Heim Rada, take picture of mountain in background
+
+Mud [Chapter 5]
+Used in: 1 (Ridepod Fuel)
+Found at: Heim Rada, Georama element (&quot;Hardened Mud Pile&quot;)
+
+Mushroom [Chapter 2]
+Used in: 3 (Barrel Cannon, Missile Pod Arm, Poison Wrench)
+Found at: Jurak Mall, after completing Georama checkpoint
+
+Mushroom Burgers Sign [Chapter 2]
+Used in: 0
+Found at: Jurak Mall, in front of Mushroom Burgers
+
+Neo-Projector [Chapter 4]
+Used in: 1 (Question Shooter)
+Found at: Luna Labs, ceiling of the main lab
+
+Old-Style Robot [Chapter 1]
+Used in: 2 (Cannon Ball Arm, Iron Leg)
+Found at: Cedric's Shop, top floor, on the left
+
+Opposed Island [Chapter 4]
+Used in: 0
+Found at: Palm Brinks, Finny Frenzy, the islands in the center of the track
+
+Oven [Chapter 1]
+Used in: 1 (Final Bomb)
+Found at: Polly's Bakery, back wall
+
+Painting [Chapter 1]
+Used in: 0
+Found at: Common item
+
+Paints [Chapter 1]
+Used in: 3 (Clown Body, Clown Foot, Clown Hand IV)</span><span id="faqspan-4">
+Found at: Parn's Studio
+
+Palm Tree [Chapter 1]
+Used in: 2 (Flamingo, Soap)
+Found at: Max's House, the &quot;waterfall room&quot;
+
+Parasol [Chapter 1]
+Used in: 6 (Clown Body, Clown Hand, Clown Hand II, Clown Shoes, Spike Boots,
+Wing Shoes)
+Found at: Palm Brinks, umbrellas over tables
+
+Parn's Studio Sign [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, in front of Parn's Studio
+
+Patterned Rug [Chapter 5]
+Used in: 0
+Found at: Gundorada, G-Tools, the oriental-looking rug on the floor
+
+Paznos Pattern [Chapter 5]
+Used in: 0
+Found at: Paznos Bridge, over view screen
+
+Peeping Pole [Chapter 3]
+Used in: 1 (Milk Can Body)
+Found at: Starlight Temple, Star Items, looks like telescope
+
+Phone [Chapter 1]
+Used in: 1 (Bell Trigger)
+Found at: Max's House, maid's quarters
+
+Phonograph [Chapter 1]
+Used in: 1 (Iron Leg)
+Found at: Need's Office, next to hourglass clock
+
+Piano [Chapter 1]
+Used in: 0
+Found at: Max's House, main room, to the right
+
+Pier [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, on lake
+
+Pinky [Chapter 6]
+Used in: 0
+Found at: Ixion, the pink things near the doors between cars
+
+Pipe [Chapter 1]
+Used in: 3 (Clown Hand, Energy Pack, Stinger Wrench)
+Found at: Palm Brinks, on top of Cedric's Shop
+
+Police Sign [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, in front of Police station
+
+Polly's Bakery Sign [Chapter 1]
+Used in: 1 (Bread)
+Found at: Palm Brinks, in front of Polly's Bakery
+
+Pork Dumpling [Chapter 3]
+Used in: 1 (Premium Chicken)
+Found at: Starlight Temple, in Lao Chao's Restaurant
+
+Post [Chapter 1]
+Used in: 6 (Cannon Ball Arm, Cannon Ball Arm II, Cannon Ball Arm III,
+Hammer Arm, Hammer Arm II, Multi Feet)
+Found at: Palm Brinks, large posts which hold blank signs over street
+
+Pot [Chapter 1]
+Used in: 4 (Bomb, Energy Pack (Urn), Gift Capsule, Triple-Urn Pack)
+Found at: Common item
+
+Pot Torch [Chapter 2]
+Used in: 1 (Nova Cannon IV)
+Found at: Sindain, Georama element
+
+Power Arm [Chapter 5]
+Used in: 4 (Clown Hand IV, Hammer Arm IV, Heavy Hammer, Heavy Hammer)
+Found at: Heim Rada, Georama element (must be affixed to house)
+
+Propeller [Chapter 5]
+Used in: 2 (Machine Gun Arm III, Machine Gun Arm IV)
+Found at: Gundorada Workshop, in the Operations Room
+
+Pumpkin [Chapter 1]
+Used in: 1 (Spike Boots)
+Found at: Palm Brinks, in front of Morton's Sundries
+
+Quartz [Chapter 2]
+Used in: 0
+Found at: Jurak Mall, above Jurak Arms
+
+Railroad [Chapter 1]
+Used in: 0
+Found at: Common item (anywhere the train goes)
+
+Rapper [Chapter 1]
+Used in: 2 (Nova Cannon, Trumpet Gun)
+Found at: Cedric's Shop, top floor, on barrel, looks like trumpet
+
+Red House [Chapter 4]
+Used in: 0
+Found at: Veniccio, on cliff
+
+Refrigerator [Chapter 1]
+Used in: 1 (Refrigerator Body)
+Found at: Morton's Sundries, in back, holding giant watermelon
+
+Register [Chapter 1]
+Used in: 0
+Found at: On counters in shops
+
+Relaxation Fountain [Chapter 7]
+Used in: 2 (Jet Hover, Laser Arm III)
+Found at: Moon Flower Palace, Georama element
+
+Rifle [Chapter 1]
+Used in: 6 (Dark Viper, Machine Gun Arm, Machine Gun Arm III, Sexy Panther,
+Twin Buster, Wild Cat)
+Found at: Max's House, Gerald's room, above door
+
+River [Chapter 1]
+Used in: 2 (Bucket Leg, Lure Rod)
+Found at: Palm Brinks, river under drawbridge
+
+Road to Golbad [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, Georama element
+
+Robot [Chapter 1]
+Used in: 0
+Found at: Max's House, Max's room
+
+Rock [Chapter 1]
+Used in: 4 (Cannon Ball Arm II, Cannon Ball Arm IV, Lightspeed, Smash Wrench)
+Found at: Palm Brinks, any large rock near the lake
+
+Rotating Sign [Chapter 3]
+Used in: 2 (Missile Pod Arm, Roller Foot)
+Found at: Balance Valley, on Chinese Stand
+
+Rug [Chapter 1]
+Used in: 0
+Found at: Palm Brinks Church, on floor between rows of candles
+
+Runaway Dragon [Chapter 3]
+Used in: 3 (Dragon Shoes, Machine Gun Arm, Samurai Arm II)
+Found at: Lao Chao's Bistro, around roof
+
+Saint's Writings [Chapter 3]
+Used in: 1 (Anti-Curse Amulet)
+Found at: Balance Valley, inside Church
+
+Saw [Chapter 1]
+Used in: 1 (Iron Leg)
+Found at: Dell Clinic, behind Dr. Dell
+
+Scale [Chapter 3]
+Used in: 2 (Clown Foot, Clown Hand II)
+Found at: Fishing Contest, used when weighing fish
+
+Scroll [Chapter 3]
+Used in: 0
+Found at: Lao Chao's Bistro, giant hanging scrolls
+
+Search Light [Chapter 4]
+Used in: 2 (Laser Arm III, Super-Alloy Body)
+Found at: Luna Labs, large purple pink down on the ocean (look over the
+railing of the entryway to see them)
+
+Shield [Chapter 1]
+Used in: 1 (Knight Boots)
+Found at: Palm Brinks Weapon Shop, on shelf across from counter
+
+Show Window [Chapter 1]
+Used in: 1 (Bandit Brassard)
+Found at: Palm Brinks Weapon Shop, part of Gold Store vault, has window with
+two swords on display
+
+Shrubbery [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, low, wooden boxes with bushes
+
+Sign [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, the small, blank signs hanging off random buildings
+
+Silver Bench [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, Georama element
+
+Small Generator [Chapter 4]
+Used in: 1 (Refrigerator Body)
+Found at: Veniccio, in Iron House (Georama element)
+
+Special Peking Duck [Chapter 3]
+Used in: 2 (Premium Chicken, Turkey)
+Found at: Lao Chao's Bistro
+
+Stained Glass [Chapter 1]
+Used in: 0
+Found at: Max's House, main room, above top balcony
+
+Staircase [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, Train Station, main staircase
+
+Stand [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, Need's Office, lamp on Need's desk
+
+Star Lamp [Chapter 3]
+Used in: 1 (Smash Wrench)
+Found at: Balance Valley, Georama element
+
+Stardust Pond [Chapter 7]
+Used in: 1 (Ridepod Fuel)
+Found at:  Moon Flower Palace, Georama element
+
+Starlight Stairway [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, Georama element
+
+Starlight Tunnel [Chapter 7]
+Used in: 0
+Found at:  Moon Flower Palace, Georama element (&quot;Starlight Stairway&quot;)
+
+Starglass [Chapter 3]
+Used in: 1 (Non-Stop Amulet)
+Found at: Starlight Temple, Star Items, crystal above counter
+
+Stove [Chapter 1]
+Used in: 1 (Nova Cannon III)
+Found at: Common item
+
+Streetlight [Chapter 1]
+Used in: 1 (Nova Cannon II)
+Found at: Palm Brinks, lamps lighting streets at night
+
+Sulfur-Colored Juice [Chapter 5]
+Used in: 1 (Poison Wrench)
+Found at: Gundorada Workshop, in G-ITEMS store on first level, on the
+left (large jug on the floor)
+
+Sun Chair [Chapter 7]
+Used in: 1 (Level-up Powder)
+Found at: Moon Flower Palace Garden, chair at end of path
+
+Sun Table [Chapter 7]
+Used in: 1 (Level-up Powder)
+Found at: Moon Flower Palace Garden, table at end of path
+
+Sunshade [Chapter 1]
+Used in: 0
+Found at: Palm Brinks, over doors
+
+System 5WP2 [Chapter 4]
+Used in: 1 (Buggy)
+Found at: Luna Labs, on walls of main lab (yellow circle with smaller purple
+circles around it
+
+T.V. [Chapter 4]
+Used in: 0
+Found at: Veniccio, inside Iron House (Georama element)
+
+Table [Chapter 1]
+Used in: 0
+Found at: Common item
+
+Telescope [Chapter 1]
+Used in: 2 (Machine Gun Arm II, Samurai Body)
+Found at: Max's House, Max's room
+
+The Moon [Chapter 1]
+Used in: 4 (Knight Boots, Magic Gun, Panther Boots, Sun &amp; Moon Armor)
+Found at: Any picture of the moon
+
+The Sun [Chapter 1]
+Used in: 8 (Holy Water, Level-up Powder, Magic Gun, Nova Cannon,
+Nova Cannon II, Nova Cannon III, Nova Cannon IV, Sun &amp; Moon Armor)
+Found at: Just take a picture of the sun when it's overhead
+
+Tiny Hammer [Chapter 1]
+Used in: 3 (Flamingo, Hammer Arm IV, Swan)
+Found at: Cedric's Shop, hammers on wall
+
+Torch [Chapter 3]
+Used in: 0
+Found at: Balance Valley, on plateaus
+
+Traffic Light [Chapter 1]
+Used in: 1 (Refrigerator Body)
+Found at: Palm Brinks, over drawbridge
+
+Transmission Device [Chapter 5]
+Used in: 2 (Escape Powder, Soul Breaker)
+Found at: Gundorada Workshop, take a picture of the Jump Gate near the Time
+Gate
+
+Trashcan [Chapter 1]
+Used in: 3 (Bucket Leg, Bucket Pack, Iron Leg)
+Found at: Palm Brinks
+
+Tree [Chapter 1]
+Used in: 7 (Albatross, Bell Trigger, Energy Pack (Barrel), Swan, Trumpet Gun,
+Turkey, Wise Owl Sword)
+Found at: Common item
+
+Vacuum [Chapter 1]
+Used in: 1 (Cleaner Pack)
+Found at: Cedric's Shop, bottom floor, on work table
+
+Vacuum Bag [Chapter 1]
+Used in: 1 (Cleaner Pack)
+Found at: Cedric's Shop, bottom floor, look like pushcart trash cans
+
+Vegetable/Fruit [Chapter 1]
+Used in: 0
+Found at: Max's House, maid's quarters
+
+Vending Machine [Chapter 1]
+Used in: 0
+Found at: Morton's Sundries, immediately to left of door
+
+Ventilation [Chapter 4]
+Used in: 1 (Roller Foot)
+Found at: Veniccio, ceiling of Iron House (Georama element)
+
+Victory Stand [Chapter 3]
+Used in: 0
+Found at: Fishing Contest/Finny Frenzy
+
+Warehouse [Chapter 3]
+Used in: 1 (Bucket Pack)
+Found at: Balance Valley, Georama element
+
+Water Altar [Chapter 6]
+Used in: 0
+Found at: Kazarov Stonehenge, pillar on the side of the main altar
+area with a blue light
+NOTE: This is NOT the same as the Water Gem Altar!  See the Scoops
+section for the location of the Water Gem Altar.
+
+Water Tank [Chapter 4]
+Used in: 3 (Barrel Cannon III, Bucket Leg, Cleaner Pack)
+Found at: Finny Frenzy, on sides of tent inside
+
+Water Wheel [Chapter 2]
+Used in: 0
+Found at: Sindain, Georama element
+
+Waterfall [Chapter 1]
+Used in: 5 (Anti-Goo Amulet, Barrel Cannon III, Dragon Shoes, Soap,
+Tasty Water)
+Found at: Underground Channel, at exit (reservoir)
+
+Waterfall Curtain [Chapter 7]
+Used in: 1 (Princess Boots)
+Found at: Moon Flower Palace Garden, waterfalls flanking the path
+
+Weapon [Chapter 1]
+Used in: 3 (Samurai Arm, Samurai Arm II, Samurai Arm III)
+Found at: Palm Brinks Weapon Shop, hanging on wall
+
+Weapon Shop Sign [Chapter 1]
+Used in: 1 (Bomb)
+Found at: Palm Brinks, in front of Weapon Shop
+
+Weather Vane [Chapter 4]
+Used in: 1 (Wing Boots)
+Found at: Balance Valley, Georama element
+
+Weight Gauge [Chapter 1]
+Used in: 0
+Found at: Cedric's Shop, top floor, next to robot
+
+Well [Chapter 3]
+Used in: 3 (Antidote Drink, Barrel Cannon II, Bucket Leg)
+Found at: Balance Valley, Georama element
+
+Wheat Flour [Chapter 1]
+Used in: 2 (Bread, Double Pudding)
+Found at: Morton's Sundries, across from counter, next to Vending Machine
+
+Wheel [Chapter 1]
+Used in: 4 (Caterpillar, Roller Foot, Roller Foot, Stinger Wrench)
+Found at: Palm Brinks Bar, high on left wall
+
+Wind Altar [Chapter 6]
+Used in: 0
+Found at: Kazarov Stonehenge, pillar on the side of the main altar
+area with a green light
+NOTE: This is NOT the same as the Wind Gem Altar!  See the Scoops
+section for the location of the Wind Gem Altar.
+
+Windmill [Chapter 4]
+Used in: 3 (Drill Arm, Machine Gun Arm II, Machine Gun Arm III)
+Found at: Veniccio Station, on grass huts
+
+Windmill Feather [Chapter 4]
+Used in: 4 (Propeller Leg, Turkey, Wing Boots, Wing Shoes)
+Found at: Veniccio, on Windmill (Georama element)
+
+Window [Chapter 1]
+Used in: 1 (Aquarium)
+Found at: Claire's House, Claire's room
+
+Withered Jurak [Chapter 2]
+Used in: 2 (Bone Rapier, Falcon)
+Found at: Sindain, large withered stump in back with water pouring off
+
+Wooden Bookshelf [Chapter 2]
+Used in: 0
+Found at: Sindain, Firbits' House, tree holding books
+
+Wooden Box [Chapter 1]
+Used in: 4 (Aquarium, Missile Pod Arm, Missile Pod Arm II, Wooden Box Body)
+Found at: Common item
+
+Woody Tailor Sign [Chapter 2]
+Used in: 0
+Found at: Jurak Mall, outside Woody Tailor
+
+Work Arm [Chapter 4]
+Used in: 5 (Clown Hand III, Drill Arm II, Drill Arm III, Drill Arm IV,
+Hammer Arm II)
+Found at: Luna Labs, main lab, arms attached to Futuron 800
+
+Work Crane [Chapter 5]
+Used in: 2 (Samurai Arm II, Steal Gun)
+Found at: Gundorada Workshop, large steel spikes on the third floor
+
+Work Equipment [Chapter 4]
+Used in: 3 (Cubic Hammer, Super-Alloy Body, Wild Cat)
+Found at: Luna Labs, outer labs, above Work Robot
+
+Work Robot [Chapter 4]
+Used in: 3 (Hammer Arm, Metal Boots, Multi Feet)
+Found at: Luna Labs, outer labs, work platform in center of lab
+
+Zelmite Found! [Chapter 8]
+Used in: 0
+Found at: Zelmite Mine, Zelmite Mines Depths, the blue crystals in the wall
+
+A Surviving Soldier (ghost) [Chapter 4]
+Used in: 1 (Samurai Arm IV)
+Found at: Veniccio, in cave to far left, behind boulder
+Scoop Memo: A warrior who died long ago in Veniccio roams around night after
+night.  What? You scared?
+
+Ancient Mural [Chapter 4]
+Used in: 1 (Escape Powder)
+Found at: Ocean's Roar Cave, Cave of the Ancient Mural
+Scoop Memo: Grab a nice shot of the mural of the imaginary world of the &quot;Moon
+of Destruction&quot;.
+
+Baron's Hangin' On [Chapter 1]
+Used in: 0
+Found at: Underground Channel, when Vanguard is inverted for slam attack
+Scoop Memo: Get a shot of Baron Balloon being flipped over by a Vanguard
+during a Trample Attack!
+
+Bomber Head Boom! [Chapter 5]
+Used in: 0
+Found at: Mount Gundor, reduce a Bomber Head to near death, then take a
+picture when he explodes
+Scoop Memo: This one might be a little tough.  You need to get a shot of this
+thing when it comes after you and self-destructs.
+
+Brave Little Linda (missable) [Chapter 1]
+Used in: 1 (Question Shooter)
+Found at: Underground Channel, with forelegs in air
+Scoop Memo: Watch for the moment Linda stomps down on you with her front
+foot.  It might be a little scary, but you can do it.
+Missable: Only during boss battle
+
+Burning Dragon Fire [Chapter 3]
+Used in: 1 (Premium Chicken)
+Found at: Starlight Canyon, take picture as it's breathing fire
+Scoop Memo: The moment a dragon, with its piercing gaze, spits fire at you.
+
+Changing Dog Statue [Chapter 3]
+Used in: 0
+Found at: Starlight Canyon, as Dog Statue is changing from a block
+Scoop Memo: The moment that cute Dog Statue changes its shape, you click that
+shutter.
+
+Charging Ram [Chapter 3]
+Used in: 2 (Wild Cat, Wise Owl Sword)
+Found at: Starlight Canyon, as Ram is charging
+Scoop Memo: They've got big bellies, but they also got the fastest legs you
+ever did see.  Just catch one of them on film, buddy.
+
+Clown Robo's Attack (missable) [Chapter 1]
+Used in: 6 (Clown Foot, Clown Hand, Clown Hand II, Clown Hand III,
+Clown Hand IV, Clown Shoes)
+Found at: Underground Channel, with eye open to shoot missile
+Scoop Memo: Catch that horrifying moment when the Clown Robo launches its
+missiles.  But watch out 'cause you won't have much time!
+Missable: Only during boss battle
+
+Dangerous Pumpkin [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, when Pumpkinhead is twirling his weapon
+Scoop Memo: When it's swinging its weapon, Pumpkinhead's a dangerous one.
+Catch it in the act, kid.
+
+Doctor Jaming (missable) [Chapter 4]
+Used in: 0
+Found at: Shigura Village, take a picture of Jaming's flying machine
+Scoop Memo: Get a shot of Jaming in action, pulling the Shiguras' strings.
+Missable: Only during boss battle
+
+Earth Gem Altar [Chapter 6]
+Used in: 1 (Hammer Arm III)
+Found at: Rainbow Butterfly Wood, altar on which the Earth Gem rests
+NOTE: This is NOT the same as the Earth Altar!  See the Ideas section
+for the location of the Earth Altar.
+Scoop Memo: Get a shot of the Earth Gem Altar in Rainbow Butterfly Wood.
+
+Face Behind the Devil Mask [Chapter 3]
+Used in: 0
+Found at: Starlight Canyon, take picture of Masked Tribesman's open mouth
+Scoop Memo: Those Masked Tribesmen fall flat on their backs.  Get in there
+and snap one of their silly faces behind their mask shields.
+
+Faintin' Bone Lord [Chapter 5]
+Used in: 0
+Found at: Mount Gundor, stun him with a rock at take a picture of his head
+Scoop Memo: When that Bone Lord goes unconscious, watch him, because his eyes
+go all googley.  Take the shot then.
+
+Fallen Battleship [Chapter 5]
+Used in: 0
+Found at: Mount Gundor Mouth, take a picture of the wreckage of the Death
+Ark
+Scoop Memo: Get a nice shot of the site where that Death Ark crashed!
+
+Find the Golden Egg! [Chapter 2]
+Used in: 1 (Double Pudding)
+Found at: Jurak Mall, on Jurak's Branch when Georama is 100%
+Scoop Memo: Go for a shot of that fantastic shiny golden egg at Jurak Mall in
+the future.
+
+Fire Gem Altar [Chapter 6]
+Used in: 2 (Missile Pod Arm IV, Nova Cannon II)
+Found at: Mount Gundor, altar on which the Fire Gem rests
+NOTE: This is NOT the same as the Fire Altar!  See the Ideas section
+for the location of the Fire Altar.
+Scoop Memo: Get a shot of the Fire Gem Altar in Mount Gundor.
+
+Fire Squall (missable) [Chapter 5]
+Used in: 2 (Albatross, Barrel Cannon IV)
+Found at: Mount Gundor Summit, large machine spewing fire
+Scoop Memo: The fearsome device Fire Squall that rains fire on Heim Rada.  Go
+get a shot of that!
+Missable: Only before you blow it up :-)
+
+Floatin' Earth Digger [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, when Moler is jumping
+Scoop Memo: They're always moving around underground.  Catch one of them
+Molers up in the air a rare sight indeed.
+
+Flotsam Revived! (missable) [Chapter 8]
+Used in: 2 (Nova Cannon IV, Samurai Arm IV)
+Found at: Zelmite Mines, A Suspicious Opening, &quot;Immortal Clown Metal Flotsam&quot;
+Missable: Only during boss battle
+
+Flower of the Sun [Chapter 7]
+Used in: 1 (Drill Arm IV)
+Found at: Moon Flower Palace Garden, flower laying on the Sun Table
+Scoop Memo: Get a picture of a Sun Flower from the Flower Garden or
+Alexandra's room.
+
+Flying Battleship (missable) [Chapter 3]
+Used in: 0
+Found at: Starlight Canyon, during the fight to protect Lin
+-OR- Shigura Village, in the background of the battle with Jaming
+-OR- Mount Gundor Summit, while fighting the Death Ark
+Scoop Memo: Try pointin' your camera at Death Ark, the flying warship.
+Missable: Only during boss battles
+
+Gigantor Paznos [Chapter 6]
+Used in: 2 (Heavy Hammer, Ruler's Sword)
+Found at: Kazarov Stonehenge, once the Chrono Union has been executed
+Scoop Memo: Get a shot of the rebel army's mobile base, Paznos, from
+Kazarov Stonehenge.
+
+Griffon's Real Face (missable) [Chapter 7]
+Used in: 0
+Found at: Moon Flower Palace, anytime during the battle with Griffon
+Scoop Memo: Emperor Griffon, master of darkness.  It'd certainly be a scoop
+to get one of him.
+Missable: Only during boss battle
+
+Gyumo's Yell [Chapter 2]
+Used in: 1 (Leather Shoes)
+Found at: Rainbow Butterfly Wood, shoot him, then take picture when he yells
+Scoop Memo: Right when Gyumo's screaming.  Maybe, it's trying to intimidate
+everyone.  Get this moment on film.
+
+Hot Springs Spirit (ghost) [Chapter 5]
+Used in: 1 (Resurrection Powder)
+Found at: Heim Rada, floating over the hot spring to the right of the ramp
+Scoop Memo: I've heard Heim Rada is a bit of a spot for ghosts.  Don't worry.
+You won't be cursed.
+
+Hurray For Rock Man! [Chapter 3]
+Used in: 0
+Found at: Starlight Canyon, take a picture of a Golem as it prepares a ground
+slam attack (hands over head)
+Scoop Memo: An attack by a Golem.  Get it the second one raises up both arms.
+Temperamental buggers, aren't they?
+
+Hmmmm! Jurak [Chapter 2]
+Used in: 2 (Anti-Curse Amulet, Wooden Box Body)
+Found at: Jurak Mall, after reviving Jurak
+Scoop Memo: Grab a shot of Jurak, the resurrected Elder of the Forest
+Spirits.
+
+Ixion [Chapter 6]
+Used in: 2 (Drill Arm III, Laser Arm II)
+Found at: Moon Flower Palace, immediately after arriving
+Scoop Memo: The superexpress that flies through time and space!  Get a
+picture of Ixion!
+
+Kazarov Stonehenge [Chapter 6]
+Used in: 0
+Found at: Kazarov Stonehenge, take a picture of the central altars
+Scoop Memo: Check out the three altars in the center of Kazarov Stonehenge.
+
+King Mardan (missable) [Chapter 2]
+Used in: 1 (Stamina Drink)
+Found at: Rainbow Butterfly Wood, as soon as you regain control of the your
+character
+Scoop Memo: It's the peculiar giant fish from Fish Monster Swamp.  It may be
+a little gross, but I know you can handle it.
+Missable: Only until you give him the Priscleen
+
+Lafrescia Stem [Chapter 2]
+Used in: 1 (Lure Rod)
+Found at: Rainbow Butterfly Wood, last level, after using seed and sundrop
+Scoop Memo: The impossibly big Lafrecia.  Catch its fully grown stem for a
+great shot.
+
+Lava Road [Chapter 5]
+Used in: 0
+Found at: Mount Gundor Mouth, path created by using the Fire Horn
+Scoop Memo: What would happen if you blew the legendary Fire Horn?  Who
+knows?  But make sure you have your camera at the ready!
+
+Legend of the Moon [Chapter 7]
+Used in: 2 (Laser Arm IV, Samurai Arm IV)
+Found at: Moon Flower Palace, Dream Spiral, while timer is counting down
+
+Master Utan [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, Fish Monster Swamp, when he is sick
+Scoop Memo: Aim for Master Utan when it's in pain from eating the Forbidden
+Fruit.
+
+Moon Crystal [Chapter 3]
+Used in: 3 (Cannon Ball Arm III, Magic Gun, Spike Boots)
+Found at: Starlight Temple, glowing orb in center of temple
+Scoop Memo: You know that big crystal in the middle of Starlight Temple?  Get
+a shot of that.
+
+Moon Flower Palace [Chapter 6]
+Used in: 1 (Princess Boots)
+Found at: Take a picture of the door of the Palace before confronting Griffon
+Scoop Memo: It's the castle where Griffon is.  Real fancy place.  Get a shot
+of the entrance as proof you were there.
+
+Mr. Big Shot's Shadow (missable) [Chapter 8]
+Used in: 0
+Found at: Zelmite Mines, Zelmite Mines Depths, the Dark Genie
+Missable: Only during boss battle
+
+Nice Massage [Chapter 3]
+Used in: 0
+Found at: Starlight Canyon, take a picture as the Priest of Rama has its
+hands behind its back (looks like it's rubbing its back)
+Scoop Memo: This one's the best.  Priest of Rama likes his massages.  Watch
+for the funniest part.
+
+Night Stalker [Chapter 1]
+Used in: 1 (Dark Viper)
+Found at: Underground Channel, during spinning attack
+Scoop Memo: This one thinks it's a ballerina.  Snap it the moment it does its
+spinning attack.
+
+Paznos [Chapter 5]
+Used in: 2 (Heavy Hammer, Ruler's Sword)
+Found at: Gundorada Workshop, upon 100% completion
+Scoop Memo: Try for a shot of the aerial fortress, Paznos.
+
+Phantom Memo Eater (missable) [Chapter 3]
+Used in: 1 (Star Breaker)
+Found at: Starlight Canyon, Yorda's Valley, any time during the fight
+Scoop Memo: Those Memo-Eaters are hard to find.  And they never travel
+together.  How's that for a scoop?
+Missable: Only during boss battle
+
+Puppet Shingala (missable) [Chapter 4]
+Used in: 1 (Dark Viper)
+Found at: Ocean Roar Cave, Cave of the Ancient Mural, take a picture of
+Shingala's head
+Scoop Memo: Catch Shingala being controlled in the heat of battle.  It's
+quite the sight...
+Missable: Only during boss battle
+
+R. Butterfly United (missable) [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, hit the wrong color butterfly, take
+picture as they reassemble
+Scoop Memo: You probably want to get a shot of the butterfly fused back
+together.  That'd make a much better picture.
+Missable: Only during boss battle
+
+Ruler of the Pond (ghost) [Chapter 1]
+Used in: 1 (Anti-Goo Amulet)
+Found at: Palm Brinks lake, center, at night
+Scoop Memo: It's kind of like a haunted picture, that haze around Palm Brinks
+Park...
+
+Spinning Ivanoff [Chapter 3]
+Used in: 1 (Sand Breaker)
+Found at: Starlight Canyon, when rolling towards you
+Scoop Memo: This guy comes spinning at you at top speed, trying to knock you
+down!  So be quick with that shutter finger of yours!
+
+Spooky Grass Smile [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, take a picture of a Man-Eating Grass
+as it &quot;laughs&quot;
+Scoop Memo: Man-Eating Grass has a creepy smile.  Looks like it's eating
+something.  That's when you get the shot.
+
+Sun Chamber Gate Keeper [Chapter 7]
+Used in: 1 (Treasure Chest Key)
+Found at: Gargoyle outside final battle with Griffon
+Scoop Memo: Get a shot of the bronze statue in front of the Sun Gate.
+
+Symbol of Luna Lab [Chapter 4]
+Used in: 1 (Missile Pod Arm II)
+Found at: Luna Labs, on top of Central Lab once Georama is 100%
+Scoop Memo: Look for the Luna Lab emblem up above the Central Lab.
+
+The Ultimate Gaspard (missable) [Chapter 5]
+Used in: 1 (Panther Boots)
+Found at: Mount Gundor Summit, after transformation
+Scoop Memo: Gaspard can change his appearance using Griffon's magic.  Get a
+shot of that!
+Missable: Only during boss battle
+
+Tore's Nap [Chapter 2]
+Used in: 0
+Found at: Rainbow Butterfly Wood, take a picture of a Tore as it sleeps
+Scoop Memo: Tore may be a big bulky beast, but it sure does like its naps.
+Sneak in and snap it then!
+
+Veniccio's Evening Sun [Chapter 4]
+Used in: 0
+Found at: Veniccio, take a picture of the sun as it sets
+Scoop Memo: Try and get a shot of the sun sinking behind the horizon off the
+Veniccio coast.
+
+Water Gem Altar [Chapter 6]
+Used in: 0
+Found at: Ocean's Roar Cave, altar on which the Water Gem rests
+NOTE: This is NOT the same as the Water Altar!  See the Ideas section
+for the location of the Water Altar.
+Scoop Memo: Get a shot of the Water Gem Altar in Ocean's Roar Cave.
+
+Wind Gem Altar [Chapter 6]
+Used in: 1 (Machine Gun Arm IV)
+Found at: Starlight Canyon, altar on which the Wind Gem rests
+NOTE: This is NOT the same as the Wind Altar!  See the Ideas section
+for the location of the Wind Altar.
+Scoop Memo: Get a shot of the Wind Gem Altar in Starlight Canyon.
